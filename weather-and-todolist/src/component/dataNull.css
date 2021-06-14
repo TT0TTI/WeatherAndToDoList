@@ -1,0 +1,13 @@
+.dataNull {
+  height: 770px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+.reactImg {
+  width: 70%;
+  height: 70%;
+}
